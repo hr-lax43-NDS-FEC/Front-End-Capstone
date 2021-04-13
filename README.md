@@ -1,2 +1,2 @@
 # Front-End-Capstone
-npm install
+npm install nodemon
